@@ -1,17 +1,18 @@
 # Привет, меня зовут Александр! ![](https://komarev.com/ghpvc/?username=Dev-prizrakk)
-**Об мне!**
+**Об мне!** \
+Мне 17 лет. \
+Я живу в России! \
+Мой сайт [prizrakk.xyz (потик лень востанавливать)](https://prizrakk.xyz)
 
-```
-Мне 17 лет.
-Я живу в России!
-Мой сайт [prizrakk.xyz](https://prizrakk.xyz)
-```
 
-**Мои навыки**
-```
-Начинающий JAVA Разработчик! (Начал дело с плагинов к серверам майнкрафт!
+**Что я умею**
+- Пишу плагины Spigot Api (а также еще с JDA)
+- Установить и настроить Pterodactyl
+- Установить и настройть  GravitLauncher
+- Установить ваш сайт (еще пока учусь но попытася смогу)
+- Настроить ваш сервер майнкрафт
 
-```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-prizrakk)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-prizrakk&show_icons=true&theme=dark)
 # Мои ачивки тут)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dev-prizrakk)](https://github.com/ryo-ma/github-profile-trophy)
