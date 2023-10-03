@@ -2,7 +2,7 @@
 **Об мне!** \
 Мне 18 лет. \
 Я живу в России! \
-Мой сайт [prizrakk.xyz (потик лень востанавливать)](https://prizrakk.xyz)
+Мой сайт [dev-prizrakk.ru](https://dev-prizrakk.ru)
 
 
 **Что я умею**
