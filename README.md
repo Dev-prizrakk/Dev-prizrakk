@@ -12,7 +12,7 @@
 - Установить ваш сайт (еще пока учусь но попытася смогу)
 - Настроить ваш сервер майнкрафт
 - Пишу ботов с использованием ЯП Java 1.8(8) и API JDA(Java Discord Api)
-- Разрабатываю свою игру BebraCoin (16+) [RuStore Скачать](https://apps.rustore.ru/app/dev.prizrakk.bebracoin)
+- ~~Разрабатываю свою игру BebraCoin (16+) [RuStore Скачать](https://apps.rustore.ru/app/dev.prizrakk.bebracoin)~~
 
 
 ![](https://github-readme-stats.vercel.app/api?username=dev-prizrakk&show_icons=true&theme=dark)
