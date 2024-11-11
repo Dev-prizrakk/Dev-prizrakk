@@ -1,5 +1,5 @@
 # Привет, меня зовут Александр! ![](https://komarev.com/ghpvc/?username=Dev-prizrakk)
-### **Об мне!** \
+### **Об мне!** 
 - Разработчик [CookiesTeam](https://github.com/CookiesTeamOfficial)
 - Учусь в колледже
 - Мой сайт [dev-prizrakk.ru (sorry dont work)](https://sorry-dont-work)
