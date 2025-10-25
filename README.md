@@ -1,14 +1,13 @@
 # Привет, меня зовут Александр! ![](https://komarev.com/ghpvc/?username=Dev-prizrakk)
 ### **Об мне!** 
-- Разработчик [CookiesTeam](https://github.com/CookiesTeamOfficial)
 - Учусь в колледже
-- Мой сайт [dev-prizrakk.ru (sorry dont work)](https://sorry-dont-work)
-- Работаю с java, php, js/html/css, python
+- Мой сайт [devprizrakk.ru](https://devprizrakk.ru)
+- Работаю с java, php, js/html/css
 
 ### **Что я могу**
 - Установить и настроить Pterodactyl
 - Установить ваш сайт (В зависимости от сложности)
-- Пишу ботов с использованием ЯП Java 1.8(8) и API JDA(Java Discord Api)
+- Пишу ботов с использованием ЯП Java 17 и API JDA(Java Discord Api)
 - Написать сайт с использованием css/html/js/php (еще учусь но простенький сайт могу сделать)
 - ~~Разрабатываю свою игру BebraCoin (16+) [RuStore Скачать](https://apps.rustore.ru/app/dev.prizrakk.bebracoin)~~
 - ~~Установить и настройть GravitLauncher~~
